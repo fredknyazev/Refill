@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Refill.App" Collapsed="true">
+    <Position X="10.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>App.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Refill.Auto" Collapsed="true">
+    <Position X="5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAIEAAAAAAAAAAAAAAAJBEAASAAAAACQ=</HashCode>
+      <FileName>Auto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Refill.AutoGenerationAndManagement" Collapsed="true">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQBABAAAAABCAAQAQAAQAIAAEAAAIAAIgAAjAAEACA=</HashCode>
+      <FileName>AutoGenerationAndManagement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Refill.Dispenser" Collapsed="true">
+    <Position X="5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAEAACAAAAAUAAAIAAAAAAIIBAIAAAAAAEAAA=</HashCode>
+      <FileName>Dispenser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Refill.ListDispenserAndDequeue" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAQAEAAAAAAQAAABAAAAAAAAACAAEAAA=</HashCode>
+      <FileName>ListDispenserAndDequeue.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Refill.MainWindow" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAgAAAEAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MainWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Refill.Pricing" Collapsed="true">
+    <Position X="5.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAEABAAAAAAACAEAAAAEgAAIAAEAgAAA=</HashCode>
+      <FileName>Pricing.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Refill.QueueOnRefill" Collapsed="true">
+    <Position X="5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACIAAABAAAQAAAkAAEECAhAAAAAAAAAAIARDAABMAAQ=</HashCode>
+      <FileName>QueueOnRefill.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Refill.RefillWindow" Collapsed="true">
+    <Position X="2" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IEAAgAAIBAAAEQAAgAAgAAAAAAABAAAAEAUEBEAiCBA=</HashCode>
+      <FileName>RefillWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Refill.RefillCore" Collapsed="true">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAIAAAAgAAACAgAQAAAAAgAAEAAAAAAAAAADoAEAAA=</HashCode>
+      <FileName>RefillWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Refill.StatisticWindow" Collapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>StatisticForm.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Refill.WorldTime" Collapsed="true">
+    <Position X="3.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAIAAAAAAAQAAAAAAAAEAAAAIAQAAAAABAAAA=</HashCode>
+      <FileName>WorldTime.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Refill.Properties.Resources" Collapsed="true">
+    <Position X="10.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Refill.Properties.Settings" Collapsed="true">
+    <Position X="10.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
